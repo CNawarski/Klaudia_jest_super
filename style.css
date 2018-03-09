@@ -2,7 +2,8 @@ header {
 font-family: 'Orbitron', sans-serif;
 background-color: black;
     color: white;
-    text-align: center
+    text-align: center;
+    height: 450px;
 }
 body {
     background-color: #4F4F4F;
