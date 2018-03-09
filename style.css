@@ -8,7 +8,7 @@ body {
 header {
     
     font-family: 'Orbitron', sans-serif;
-    background-color: black;
+    border: solid;
     color: white;
     text-align: center;
     height: 450px;
